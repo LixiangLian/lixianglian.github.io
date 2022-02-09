@@ -1,0 +1,11 @@
+# jemdoc: menu{MENU}{publications.html}, nofooter 
+= PUBLICATIONS 
+
+== Journal Paper
+. L. Lian and V. K. N. Lau, ”Configuration Optimization and Channel Estimation in Hybrid Beamforming mmWave Systems With Channel Support Side Information,” in IEEE Transactions on Signal Processing, vol. 68, pp. 6026-6039, 2020. [paper_example.pdf Paper Link]
+. L. Lian, A. Liu and V. K. N. Lau, ”User Location Tracking in Massive MIMO Systemsvia Dynamic Variational Bayesian Inference,” in IEEE Transactions on Signal Processing, vol.67, no. 21, pp. 5628-5642, 1 Nov.1, 2019.
+. L. Lian, A. Liu and V. K. N. Lau, ”Exploiting Dynamic Sparsity for Downlink FDD Massive MIMO Channel Tracking,” in IEEE Transactions on Signal Processing, vol. 67, no. 8, pp. 2007-2021, 15 April15, 2019.
+ 
+
+== Conference Paper
+. P. Fang and L. Lian, ”Spatial Structure Aided Compressive Phase Training for Channel Estimation in Massive MIMO System with Reconfigurable Intelligent Surfaces,” to be submitted to IEEE Global Communications Conference, 2021.
