@@ -2,10 +2,18 @@
 = PUBLICATIONS 
 
 == Journal Paper
-. L. Lian and V. K. N. Lau, ”Configuration Optimization and Channel Estimation in Hybrid Beamforming mmWave Systems With Channel Support Side Information,” in IEEE Transactions on Signal Processing, vol. 68, pp. 6026-6039, 2020. [paper_example.pdf Paper Link]
-. L. Lian, A. Liu and V. K. N. Lau, ”User Location Tracking in Massive MIMO Systemsvia Dynamic Variational Bayesian Inference,” in IEEE Transactions on Signal Processing, vol.67, no. 21, pp. 5628-5642, 1 Nov.1, 2019.
-. L. Lian, A. Liu and V. K. N. Lau, ”Exploiting Dynamic Sparsity for Downlink FDD Massive MIMO Channel Tracking,” in IEEE Transactions on Signal Processing, vol. 67, no. 8, pp. 2007-2021, 15 April15, 2019.
- 
+. *L. Lian* and V. K. N. Lau, ”Configuration Optimization and Channel Estimation in Hybrid Beamforming mmWave Systems With Channel Support Side Information,” in IEEE Transactions on Signal Processing, vol. 68, pp. 6026-6039, 2020. [paper_example.pdf Paper Link]
+. *L. Lian*, A. Liu and V. K. N. Lau, ”User Location Tracking in Massive MIMO Systemsvia Dynamic Variational Bayesian Inference,” in IEEE Transactions on Signal Processing, vol.67, no. 21, pp. 5628-5642, 1 Nov.1, 2019.
+. *L. Lian*, A. Liu and V. K. N. Lau, ”Exploiting Dynamic Sparsity for Downlink FDD Massive MIMO Channel Tracking,” in IEEE Transactions on Signal Processing, vol. 67, no. 8, pp. 2007-2021, 15 April 15, 2019. 
+. *L. Lian*, A. Liu and V. K. N. Lau, ”Weighted LASSO for Sparse Recovery With Statistical Prior Support Information,” in IEEE Transactions on Signal Processing, vol. 66, no. 6, pp. 1607-1618, 15 March15, 2018.
+. A. Liu, G. Liu, *L. Lian*, V. Lau and M. Zhao, ”Robust Recovery of Structured Sparse Signals with Uncertain Sensing Matrix: A Turbo-VBI Approach,” in IEEE Transactions on Wireless Communications, vol. 19, no. 5, pp. 3185-3198, May 2020.
+. A. Liu, *L. Lian*, V. Lau, G. Liu and M. Zhao, ”Cloud-Assisted Cooperative Localization for Vehicle Platoons: A Turbo Approach,” in IEEE Transactions on Signal Processing, vol. 68, pp. 605-620, 2020.
+. A. Liu, *L. Lian*, and V. K. N. Lau, ”Downlink Channel Estimation in Multiuser Massive MIMO With Hidden Markovian Sparsity,” in IEEE Transactions on Signal Processing, vol. 66, no. 18, pp. 4796-4810, 15 Sept.15, 2018.
 
 == Conference Paper
-. P. Fang and L. Lian, ”Spatial Structure Aided Compressive Phase Training for Channel Estimation in Massive MIMO System with Reconfigurable Intelligent Surfaces,” to be submitted to IEEE Global Communications Conference, 2021.
+. P. Gao, *L. Lian* and J. Yu, "Optimal Passive Beamforming for Cooperative Localization with RIS-Assisted mmWave systems", in IEEE Wireless communications and Networking Conference Workshop (WNCNW), Austin, TX, USA, 2022, pp. 1-6.
+. P. Fang and *L. Lian*, ”Spatial Structure Aided Compressive Phase Training for Channel Estimation in Massive MIMO System with Reconfigurable Intelligent Surfaces,” IEEE International Conference on Communications (ICC), Seoul, South Korea, 2022, pp. 1-6.  
+. *L. Lian* and V. K. N. Lau, ”Compressive Channel Estimation in mmWave Systems with Flexible Hybrid Beamforming Architecture,” 2020 IEEE International Conference on Communications.
+. G. Liu, A. Liu, *L. Lian*, V. Lau and M. Zhao, ”Sparse Bayesian Inference Based Direct Localization for Massive MIMO,” 2019 IEEE 90th Vehicular Technology Conference (VTC2019 Fall), Honolulu, HI, USA, 2019, pp. 1-5.
+. *L. Lian*, A. Liu and V. K. N. Lau, ”Optimal-Tuned Weighted LASSO for Massive MIMO Channel Estimation with Limited RF Chains,” GLOBECOM 2017 - 2017 IEEE Global Communications Conference, Singapore, 2017, pp. 1-6.
+. Liu, V. Lau, M. L. Honig and *L. Lian*, ”Compressive RF training and channel estimation in massive MIMO with limited RF chains,” 2017 IEEE International Conference on Communications (ICC), Paris, 2017, pp. 1-6.
