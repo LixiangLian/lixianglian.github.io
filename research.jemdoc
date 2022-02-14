@@ -59,7 +59,7 @@ ISAC is expected to considerably improve spectral and energy efficiencies, while
 - Machine learning (ML), especially deep learning, has shown very good performance in many fields. In the field of wireless communication, it is regarded as a promising solution to difficult communication problems such as channel decoding, radio signal classification and channel estimation. In many existing works, researchers mostly use supervised learning, however, this method requires a large amount of data with human provided-labels. Based on the above introduction, we consider using self-supervised learning to solve the problems in wireless communication, where the data itself provides the supervision for a learning algorithm.
 
 ~~~
-{}{img_left}{self-super.png}{alt text}{800}{300}
+{}{img_left}{Self-super.png}{alt text}{800}{300}
 ~~~ 
 \n \[4]. A. Anand, “Contrastive self-supervised learning,” 2020, https://ankeshanand.com/blog/2020/01/26/contrative-self-supervised-learning.html.
 
