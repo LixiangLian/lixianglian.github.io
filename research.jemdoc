@@ -24,6 +24,8 @@ As a new type of equipment, RIS can artificially control the phase of reflected 
 {}{img_left}{RIS.png}{alt text}{900}{400}
 ~~~
 
+\n \[1]. Q. Wu, S. Zhang, B. Zheng, C. You, and R. Zhang, “Intelligent reflecting surface aided wireless communications: a tutorial,” submitted to IEEE Transactions on Communications (Invited Paper)
+
 
 ==  Integrated Sensing and Communications (ISAC)
 ISAC is expected to considerably improve spectral and energy efficiencies, while reducing both hardware and signaling costs, since it attempts to merge sensing and communication into a single system. Waveform design plays a key role in ISAC systems, which mainly contain the following types. 
@@ -31,8 +33,10 @@ ISAC is expected to considerably improve spectral and energy efficiencies, while
 - Fully Unified Waveform: The most tightly coupled one (fully unified waveform). The fully unified ISAC waveforms are generally designed following three philosophies, namely, sensing-centric design, communication-centric design, and joint design.
 
 ~~~
-{}{img_left}{ISAC.png}{alt text}{900}{400}
+{}{img_left}{ISAC.png}{alt text}{600}{400}
 ~~~ 
+
+\n \[2]. F. Liu, Y. Cui, C. Masouros, J. Xu, T.-X. Han, Y. C. Eldar, and S. Buzzi, "Integrated Sensing and Communications: Towards Dual-functional Wireless Networks for 6G and Beyond", submitted to IEEE Journal on Selected Areas in Communications.
 
 
 ==  Online Channel Estimation in MIMO Systems
@@ -46,13 +50,16 @@ ISAC is expected to considerably improve spectral and energy efficiencies, while
 - Online Channel Estimation 
 -- Channel estimation is a very important problem in communication system. In addition to some traditional solutions, it is also a hot topic to use machine learning methods for channel estimation nowadays. However, most of these implementations use a trained network, that is, offline. This scheme cannot well adapt to new scenarios, so online algorithm can be considered. The advantage of this is that it can adapt to a variety of scenes, but with it comes the difficult nonlinear problems, which comes from the nonlinear amplifier or quantization at the transmitter or receiver. For the online algorithm, there is no large amount of training data, so such nonlinearity needs to be considered separately. The difficulty lies in the need to design the loss function of the system under the condition of considering nonlinearity, which is independent of the true data, that is to say, the scheme does not have the access to the ground truth.
 ~~~
-{}{img_left}{Online-nonlinearlity.png}{alt text}{650}{300}
+{}{img_left}{Online-nonlinearlity.png}{alt text}{600}{300}
 ~~~ 
+\n \[3]. Zheng, X. , and  V  Lau. "Simultaneous Learning and Inferencing of DNN-based mmWave Massive MIMO Channel Estimation in IoT Systems with Unknown Nonlinear Distortion." IEEE Internet of Things Journal PP.99(2021):1-1, Fig.1.
+
 
 == Self-supervised Learning Applied to Wireless Communications
 - Machine learning (ML), especially deep learning, has shown very good performance in many fields. In the field of wireless communication, it is regarded as a promising solution to difficult communication problems such as channel decoding, radio signal classification and channel estimation. In many existing works, researchers mostly use supervised learning, however, this method requires a large amount of data with human provided-labels. Based on the above introduction, we consider using self-supervised learning to solve the problems in wireless communication, where the data itself provides the supervision for a learning algorithm.
 
 ~~~
-{}{img_left}{self-super.png}{alt text}{900}{300}
+{}{img_left}{self-super.png}{alt text}{800}{300}
 ~~~ 
+\n \[4]. A. Anand, “Contrastive self-supervised learning,” 2020, https://ankeshanand.com/blog/2020/01/26/contrative-self-supervised-learning.html.
 
