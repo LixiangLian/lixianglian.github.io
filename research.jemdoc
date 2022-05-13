@@ -1,5 +1,5 @@
 # jemdoc: menu{MENU}{research.html}, nofooter
-= RESEARCH Areas
+= RESEARCH AREAS
 
 ~~~
 My ongoing research interests lie at the intersection of high-dimensional signal recovery, mathematical optimization, signal-processing and aspects of learning.
@@ -12,9 +12,10 @@ Research Areas include
 ~~~
  
 ==  Wireless Communications for Next Generation Network
+The sixth generation (6G) network have recently attracted significant attention from both the industry and academia, whose vision is towards ubiquitous 3D coverage, the intelligent and green networks, Internet of everything, etc. 6G will be a combination of different networks: satellites, ocean, airplane, mobile cellular and other undefined networks to achieve seamless coverage of integrated information. Compared to the previous generations, 6G can provide services with more stringent requirement, such as high throughput, low latency, ultra reliability, denser connection, high energy efficiency, connected intelligence with machine learning capability. The requirements of 6G system have made the fine-grained optimization of radio resources and effective learning of network-related information an urgent necessity. Due to the large scale, high density, heterogeneous quality of service and integrated cross-layer and multi-function design, the optimization problem in 6G network can be extremely time-sensitive and complex, which poses great challenge for efficient optimization algorithm design. Machine learning has been recently leveraged as a disruptive technology to solve the challenging optimization problems in 6G wireless networks.   
 ~~~
-{}{img_left}{Research.png}{RIS}{900}{410}
-The sixth generation (6G) network have recently attracted significant attention from both the industry and academia,\n whose vision is towards ubiquitous 3D coverage, the intelligent and green networks, Internet of everything, etc. 6G will \n be a combination of different networks: satellites, ocean, airplane, mobile cellular and other undefined networks to \n achieve seamless coverage of integrated information. Compared to the previous generations, 6G can provide services with \n more stringent requirement, such as high throughput, low latency, ultra reliability, denser connection, high \n energy efficiency, connected intelligence with machine learning capability. The requirements of 6G system have made the \n fine-grained optimization of radio resources and effective learning of network-related information an urgent \n necessity. Due to the large scale, high density, heterogeneous quality of service and integrated cross-layer and multi-\n function design, the optimization problem in 6G network can be extremely time-sensitive and complex, which poses great \n challenge for efficient optimization algorithm design. Machine learning has been recently leveraged as a disruptive \n technology to solve the challenging optimization problems in 6G wireless networks.  
+{}{img_left}{Research.png}{Intelligent Communication}{900}{410}
+
 
 ~~~
 
@@ -25,18 +26,36 @@ The sixth generation (6G) network have recently attracted significant attention 
   -- Integrated Sensing and Communications (ISAC)
 
 - Machine Learning for Large-Scale Signal Processing
-  -- Deep Learning at the Physical Layer: Online Machine Learning, Machine Learning with Noisy Labels, Semantic Communications, Self-supervised Learning  etc.
+  -- Deep Learning at the Physical Layer: Online Machine Learning, Machine Learning with Noisy Labels, Semantic Communications, Self-supervised Learning etc.
   -- Scalable Machine Learning for Wireless Network Optimization: "end-to-end learning" vs "learn to optimize"
   -- Compression and Quantization for Edge Inference  
   -- Machine Learning Theory: Interpretation, Generality, Theoretical Analysis, etc.
 
 == High-dim Data Processing
+/~~ "Data! Data! Data! I can’t make bricks without clay.”/~ ~ ~ ~~ ~~ ~~ ~~ ~~ ~~ - Sherlock Holmes \n
 
-- 
+In the past two decades, we have entered the era of big data, which poses great challenges to efficiently process and analyze the massive amounts of data. Firstly, the problem entails high-dimensional data. Second, without sacrificing the quality of data inference, reducing the amount of information that must be measured is highly motivated. Thirdly, this process involves an "inverse problem". Inspired by the fact that most of the natural signals\/data sets entail low dimensional structure after a transformed representation, it is necessary to design a new mathematical framework that can  accurately recover the under-sampled high-dimensional data exploiting the sparsity property. Compressive sensing has been proposed in this context. As its foundation, we focus on the following aspects of CS theory. 1) characterize the conditions under which the high-dim data can be exactly\/stably recovered from the low-dim measurement. 2) develop scalable optimization algorithms which can retrieve the high-dim data from the (noisy) low-dim measurements efficiently with guaranteed performance. 
+
+~~~
+{}{img_left}{cs.png}{Compressive Sensing}{1200}{280}
+~~~
+
+- Structured Compressive Sensing
+  -- Statistical Structured Prior, Matrix Uncertainty, Ill Condition, etc.
+- Deep Learning for Compressive Sensing
+  -- Generative Models for Sparse Learning, Learned CS, etc. 
+- Dictionary Learning 
+  -- Distributed DL, Online Distributed DL, Robust Distributed DL, etc. 
 
 == Distributed Optimization 
+As the widely deployment of sensors, data acquisition devices and the growth of the web and cloud infrastructures, tremendous volume of datasets haven been generated locally. To process the data, centralized paradigm requires the collection of data at the central server to accomplish various learning\/computing/control tasks. However, the data collection could induce significant transmission overhead and privacy issues. Distributed processing of data at local has been envisioned as a prevalent technology to reduce the communication and energy cost, and protect the data privacy. In this area, we mainly focus on the distributed dictionary learning problem, where the distributed sensors cooperatively learn the dictionary of datasets under which the data exhibits low dimensional structure by exchanging information with neighbors to improve the data recovery accuracy. 
+~~~
+{}{img_left}{dis.png}{Compressive Sensing}{1200}{280}
+\n\n\n\n\n\n\n\n\n\n\n
+Reference [https://www.youtube.com/watch?v=W1aMmCZ25fw \[Middle\]] [https://iraw.org/2020/12/28/an-introduction-to-wireless-sensor-networks/ \[Right\]]
+~~~
 
-
+- Distributed Dictionary Learning 
 
 = Talks
 
