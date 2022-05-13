@@ -2,6 +2,12 @@
 = PUBLICATIONS 
 
 == Journal Paper
+. *L. Lian* and J. Qin, "Data-Aware Beamforming for Support Vector Machine Enabled Integrated Sensing and Communication", IEEE Transactions on Wireless Communications, 2022.
+. Q. Lu and *L. Lian*, ”Distributed Complete Dictionary Learning via $\ell_4$-Norm Maximization,” IEEE Transactions on Signal Processing, 2022.
+. P. Fang and *L. Lian*, ”Joint Channel Estimation and Sensing in RIS-Assisted ISAC System,” IEEE Transactions on Signal Processing, 2022.
+. P. Gao, *L. Lian* and J. Yu, ”Cooperative Rate Splitting Strategy for Joint Direct Localization and Communication,” IEEE J. Select. Areas Commun., 2022.
+. P. Gao, *L. Lian* and J. Yu, ”A Robust Minimax Approach to Wireless Multi-path Area Positioning in RIS-Assisted mmWave Systems,” IEEE Transactions on Signal Processing, 2022.
+. P. Gao, *L. Lian* and J. Yu„ ”Wireless Area Positioning in RIS-Assisted mmWave Systems: Joint Passive and Active Beamforming Design,” IEEE Signal Processing Letters (under revision), 2022.
 . *L. Lian* and V. K. N. Lau, ”Configuration Optimization and Channel Estimation in Hybrid Beamforming mmWave Systems With Channel Support Side Information,” in IEEE Transactions on Signal Processing, vol. 68, pp. 6026-6039, 2020. [paper_example.pdf Paper Link]
 . *L. Lian*, A. Liu and V. K. N. Lau, ”User Location Tracking in Massive MIMO Systemsvia Dynamic Variational Bayesian Inference,” in IEEE Transactions on Signal Processing, vol.67, no. 21, pp. 5628-5642, 1 Nov.1, 2019.
 . *L. Lian*, A. Liu and V. K. N. Lau, ”Exploiting Dynamic Sparsity for Downlink FDD Massive MIMO Channel Tracking,” in IEEE Transactions on Signal Processing, vol. 67, no. 8, pp. 2007-2021, 15 April 15, 2019. 
@@ -11,7 +17,12 @@
 . A. Liu, *L. Lian*, and V. K. N. Lau, ”Downlink Channel Estimation in Multiuser Massive MIMO With Hidden Markovian Sparsity,” in IEEE Transactions on Signal Processing, vol. 66, no. 18, pp. 4796-4810, 15 Sept.15, 2018.
 
 == Conference Paper
+. Q. Lu and *L. Lian*, ”Distributed Dictionary Learning in Sensor Networks,” 2022 IEEE Global Communications Conference, 2022. /submitted/
+. J. Cao and *L. Lian*, ”Information Bottleneck Based CSI Feedback with Compression and Quantization in Massive MIMO Systems,” 2022 IEEE Global Communications Conference, 2022. /submitted/
+. *L. Lian* and B. Wang, ”Regularized Deep Generative Model Learning for Real-time Massive MIMO Channel Tracking,” 2022 IEEE Global Communications Conference, 2022. /submitted/
+. B. Wang and *L. Lian*, ”Online Compressive Channel Learning Using Untrained Deep Generative Model,” in 2022 IEEE 95rd Vehicular Technology Conference (VTC2022-Spring), 2022.
 . P. Gao, *L. Lian* and J. Yu, "Optimal Passive Beamforming for Cooperative Localization with RIS-Assisted mmWave systems", in IEEE Wireless communications and Networking Conference Workshop (WNCNW), Austin, TX, USA, 2022, pp. 1-6.
+. S. Huang, P. Zhang, Y. Mao, *Lixiang Lian*, Y. Wu and Y. Shi, "Wireless Federated Learning over MIMO Networks: Joint Device Scheduling and Beamforming Design", in IEEE International Conference on Communications  Workshops (ICC Workshops), Seoul, South Korea, 2022, pp. 1-6.  
 . P. Fang and *L. Lian*, ”Spatial Structure Aided Compressive Phase Training for Channel Estimation in Massive MIMO System with Reconfigurable Intelligent Surfaces,” IEEE International Conference on Communications (ICC), Seoul, South Korea, 2022, pp. 1-6.  
 . *L. Lian* and V. K. N. Lau, ”Compressive Channel Estimation in mmWave Systems with Flexible Hybrid Beamforming Architecture,” 2020 IEEE International Conference on Communications.
 . G. Liu, A. Liu, *L. Lian*, V. Lau and M. Zhao, ”Sparse Bayesian Inference Based Direct Localization for Massive MIMO,” 2019 IEEE 90th Vehicular Technology Conference (VTC2019 Fall), Honolulu, HI, USA, 2019, pp. 1-5.
