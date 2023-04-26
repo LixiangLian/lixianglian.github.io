@@ -4,11 +4,12 @@
 == Journal Paper
 . *L. Lian* and J. Qin, "Data-Aware Beamforming for Support Vector Machine Enabled Integrated Sensing and Communication", IEEE Transactions on Wireless Communications, 2023. (/In preparation/)
 #. P. Fang and *L. Lian*, “Joint Channel Estimation and Sensing in RIS-Assisted ISAC System,” IEEE Transactions on Signal Processing, 2022. 
-. J. Jiang, *L. Lian*, T. Yu, et al., "A Novel Dua-Driven Channel Estimation Scheme for Spatially Non-Stationary Fading Environments",  IEEE Transactions on Wireless Communications, 2023. (/To be submitted/)
 . P. Gao, *L. Lian* and J. Yu, “A Robust Minimax Approach to Wireless Multi-path Area Positioning in RIS-Assisted mmWave Systems,” IEEE Transactions on Signal Processing, 2023. (/To be submitted/)
-. Y. Xu and *L. Lian*, “Adaptive Multi-User Channel Estimation Based on Contrastive Feature Learning,” IEEE Communication Letter, 2023. (/Submitted, [https://arxiv.org/abs/2303.02960 Paper Link]/)
-. Q. Lu and *L. Lian*, “Distributed Complete Dictionary Learning via $\ell_4$-Norm Maximization,” IEEE Transactions on Signal Processing, 2023. (/Submitted, [https://arxiv.org/abs/2211.03628 Paper Link]/)
-. Y. Shi, *L. Lian*, Y. Shi, et al., "Machine Learning for Large-Scale Optimization in 6G Wireless Networks," IEEE Communications Surveys & Tutorials, 2023. (/Submitted, [https://arxiv.org/abs/2301.03377 Paper Link]/)
+. J. Jiang, *L. Lian*, T. Yu, et al., "A Novel Dua-Driven Channel Estimation Scheme for Spatially Non-Stationary Fading Environments",  IEEE Transactions on Wireless Communications, 2023. (/Under Revision/)
+. S. Hu, *L. Lian*, H. Qian, et al, “Blind Multi-level MAP Detection with Phase Noise Compensation in MIMO-OFDM Systems,” IEEE Transactions on Communications, 2023. (/Under Revision/)
+. Y. Xu and *L. Lian*, “Adaptive Multi-User Channel Estimation Based on Contrastive Feature Learning,” IEEE Communication Letter, 2023. (/Under Revision, [https://arxiv.org/abs/2303.02960 Paper Link]/)
+. Q. Lu and *L. Lian*, “Distributed Complete Dictionary Learning via $\ell_4$-Norm Maximization,” IEEE Transactions on Signal Processing, 2023. (/Under Revision, [https://arxiv.org/abs/2211.03628 Paper Link]/)
+. Y. Shi, *L. Lian*, Y. Shi, et al., "Machine Learning for Large-Scale Optimization in 6G Wireless Networks," IEEE Communications Surveys & Tutorials, 2023. (/Under Revision, [https://arxiv.org/abs/2301.03377 Paper Link]/)
 .  P. Gao, *L. Lian* and J. Yu, "Cooperative ISAC with Direct Localization and Rate-Splitting Multiple Access Communication: A Pareto Optimization Framework," in IEEE Journal on Selected Areas in Communications, doi: 10.1109/JSAC.2023.3240714.
 . P. Gao, *L. Lian* and J. Yu, "Wireless Area Positioning in RIS-Assisted mmWave Systems: Joint Passive and Active Beamforming Design," in IEEE Signal Processing Letters, vol. 29, pp. 1372-1376, 2022.
 . *L. Lian* and V. K. N. Lau, “Configuration Optimization and Channel Estimation in Hybrid Beamforming mmWave Systems With Channel Support Side Information,” in IEEE Transactions on Signal Processing, vol. 68, pp. 6026-6039, 2020. [paper_example.pdf Paper Link]
@@ -22,6 +23,8 @@
 == Conference Paper
 #. Y. Xu and *L. Lian*, “Adaptive Multi-User Channel Estimation Based on Contrastive Feature Learning,” 2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2023. /submitted/
 #. Q. Lu and *L. Lian*, “Distributed Dictionary Learning in Sensor Networks,” 2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2023. /submitted/
+. Y. Xu and *L. Lian*, "Channel Estimation Based on Contrastive Feature Learning with Few Labeled Samples," 2023 IEEE Workshop on Signal Processing Advances in Wireless Communications (SPAWC), 2023. (/Submitted/)
+.  *L. Lian* and B. Wang, “Regularized Deep Generative Model Learning For Real-time Massive MIMO Channel Tracking,” 2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2023. (/Accepted/)
 . J. Cao, *L. Lian*, Y. Mao, and B. Clerk, " Adaptive CSI Feedback with Hidden Semantic Information Transfer,” 2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2023. (/Accepted/)
 . P. Gao and *L. Lian*, “Efficiency of Spatial Correlation for Multi-RIS-Assisted Multi-User Direct Localization,” IEEE International Conference on Communications (ICC), 2023. (/Accepted/)
 .  K. Zhao, Y. Mao, Z. Yang, *L. Lian* and B. Clerckx, "Reconfigurable Intelligent Surfaces Empowered Cooperative Rate Splitting with User Relaying," International Symposium on Wireless Communication Systems (ISWCS), 2022.
