@@ -1,6 +1,19 @@
 # jemdoc: menu{MENU}{publications.html}, nofooter 
 = PUBLICATIONS 
 
+== Highlighted Contributions 
+=== Theorecial Contributions
+- Fundamental Performance Limits of Cooperative Localization, e.g., [https://arxiv.org/abs/2504.04791 "Localization and Tracking for Cooperative Users in Multi-RIS-assisted Systems: Theoretical Analysis and Principles of Interpretations"].
+- Distributed Disctionary Learning, e.g., [https://arxiv.org/abs/2211.03628 Distributed Complete Dictionary Learning via l4-Norm Maximization].
+- High-Dimensional Signal Processing, e.g., [https://ieeexplore.ieee.org/document/8253903 Weighted LASSO for Sparse Recovery With Statistical Prior Support Information], [https://ieeexplore.ieee.org/document/8989963 Robust Recovery of Structured Sparse Signals with Uncertain Sensing Matrix: A Turbo-VBI Approach].
+=== Application-Oriented Contributions
+- Pareto-Optimal Cooperative ISAC Systems, e.g., [https://ieeexplore.ieee.org/document/10032141 Cooperative ISAC With Direct Localization and Rate-Splitting Multiple Access Communication: A Pareto Optimization Framework].
+- Physics-Informed Deep Learnings with Performance Guarantees, e.g., [https://arxiv.org/abs/2301.03377 Machine Learning for Large-Scale Optimization in 6G Wireless Networks], [https://ieeexplore.ieee.org/document/10900957 GSURE-Based Unsupervised Deep Equilibrium Model Learning for Large-Scale Channel Estimation].
+- High-Dimensional Signal Processing with Applications in Wireless Communication and Sensing, e.g., [https://ieeexplore.ieee.org/document/8846756 User Location Tracking in Massive MIMO Systemsvia Dynamic Variational Bayesian Inference], [https://ieeexplore.ieee.org/document/8630098 Exploiting Dynamic Sparsity for Downlink FDD Massive MIMO Channel Tracking].
+=== System Implementations
+- Mutualistic Sensing and Communication (MuSAC), e.g., [https://ieeexplore.ieee.org/document/10630982 MuSAC: Mutualistic Sensing and Communication for Mobile Crowdsensing], [https://ieeexplore.ieee.org/document/10095155 Adaptive CSI Feedback with Hidden Semantic Information Transfer]. 
+
+
 == Journal Paper
 #. *L. Lian* and J. Qin, "Data-Aware Beamforming for Support Vector Machine Enabled Integrated Sensing and Communication", IEEE Transactions on Wireless Communications, 2023. (/In preparation/)
 #. P. Fang and *L. Lian*, “Joint Channel Estimation and Sensing in RIS-Assisted ISAC System,” IEEE Transactions on Signal Processing, 2022. 
