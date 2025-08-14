@@ -15,13 +15,25 @@ Phone: \+021 20684441 \n
  
 == Research
 My research interests include 
-- Wireless Communication
+- Wireless Communication and Sensing
 - Artificial Intelligence 
 - Compressive Sensing  
 - Machine Learning
+~~~
+My research interests lie in the broad area of *6G wireless communication, sensing and
+artificial intelligence*. My current research focuses on the design of
+machine learning algorithms and signal processing algorithms with applications to wireless
+communications and sensing, and *building practical systems to support real-world
+applications* on top of it. In particular, current works include mutualistic sensing and communication (MuSAC), intelligent communication and sensing (ICAS), near-field sensing, semantic communication, distributed learning, deep
+learning based high-dimensional signal processing and large-scale optimization.
+~~~
 
 
-== Current Openings
+== Current Openings 
+~~~
+/Join us! We're looking for exceptional students with recommendation exemption（推免资格) to join our team as direct Ph.D. candidates starting in 2026. If you're excited about interdisciplinary research at the intersection of machine learning, wireless communications, sensing, and artificial intelligence of things, I'd love to hear from you!/
+~~~
+
 - Postdoc researchers
 - Postgraduate students (both master students and doctoral students) 
 - Visiting students
@@ -31,6 +43,7 @@ Please  [lianlx@shanghaitech.edu.cn contact me] for more details.
 [resources.html \[My requirements on my postgraduate students.\]]
 
 === Recent Publications 
+. L. Li, *L. Lian*, S. Zhang, et al., "A Physics-Motivated Large Scale Interference Decoupling and Channel Estimation Scheme for Multi-Cell Interfering Environments," in IEEE Wireless Communications Letters, 2025.
 . H. Su, *L. Lian*, K. Huang and S. Zhang, "A Three-Stage Physics-Driven Transmission Scheme For Integrated Sensing and Communication Systems With Noisy Angular Information," in IEEE Wireless Communications Letters, 2025.
 . J. Qin and *L. Lian*, “Data-Aware Beamforming for Integrated Sensing and Communication Enabled AI Systems," in IEEE Wireless Communications Letters, 2025.
 . J. Huang, *L. Lian*, D. Wen, et al.,“Dynamic UAV-Assisted Cooperative Edge AI Inference," in IEEE Transactions on Wireless Communications, vol. 24, no. 1, pp. 615-628, Jan. 2025. 
