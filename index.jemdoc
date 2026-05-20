@@ -20,18 +20,18 @@ My research interests include
 - Compressive Sensing  
 - Machine Learning
 ~~~
-My research interests lie in the broad area of *6G wireless communication, sensing and
-artificial intelligence*. My current research focuses on the design of
-machine learning algorithms and signal processing algorithms with applications to wireless
-communications and sensing, and *building practical systems to support real-world
-applications* on top of it. In particular, current works include mutualistic sensing and communication (MuSAC), intelligent communication and sensing (ICAS), near-field sensing, semantic communication, distributed learning, deep
-learning based high-dimensional signal processing and large-scale optimization.
+My research interests lie in the broad area of *6G wireless communication, sensing and artificial intelligence of things (AIoT)*. My current research focuses on the design of machine learning algorithms and signal processing algorithms with  applications to wireless communications and sensing, and *building practical systems to support real-world applications* on top of it. 
+In particular, my research develops a coherent framework spanning MuSAC, foundation-model-based wireless intelligence, LLM-enabled AIoT systems, data-efficient learning (active, continual, and distributed), non-invasive/passive sensing, near-field sensing, with an emphasis on developing principled and theoretically grounded high-dimensional signal processing and optimization methods for next-generation wireless systems. 
+
+# My research interests lie in the broad area of *6G wireless communication, sensing and artificial intelligence*. My current research focuses on the design of machine learning algorithms and signal processing algorithms with applications to wireless communications and sensing, and *building practical systems to support real-world applications* on top of it. In particular, current works include mutualistic sensing and communication (MuSAC), intelligent communication and sensing (ICAS), near-field sensing, semantic communication, distributed learning, deep learning based high-dimensional signal processing and large-scale optimization.
 ~~~
 
 
 == Current Openings 
 ~~~
-/Join us! We're looking for exceptional students with recommendation exemption（推免资格) to join our team as direct Ph.D. candidates starting in 2026. If you're excited about interdisciplinary research at the intersection of machine learning, wireless communications, sensing, and artificial intelligence of things, I'd love to hear from you!/
+/Join us! We're looking for motivated students to join our research group as direct Ph.D. candidates (直博生) or Ph.D. students via the application-based assessment(申请考核制博士生）starting in 2026. If you're excited about interdisciplinary research at the intersection of machine learning, wireless communications, sensing, and artificial intelligence of things, I'd love to hear from you!/
+
+/Contact us and let’s explore the future together!/
 ~~~
 
 - Postdoc researchers
@@ -43,6 +43,9 @@ Please  [lianlx@shanghaitech.edu.cn contact me] for more details.
 [resources.html \[My requirements on my postgraduate students.\]]
 
 === Recent Publications 
+. H. Tian and *L. Lian*, “Unsupervised Deep Equilibrium Model Learning for Large-Scale Channel Estimation with Performance Guarantees,” in IEEE Transactions on Signal Processing, doi: 10.1109/TSP.2026.3694099.
+. M. Yuan and *L. Lian*, "Zero-Shot Wireless Blockage Detection via Foundation Models," ICC 2026 - IEEE International Conference on Communication.
+. K. Ma, *L. Lian*, et al., "Mutual Coupling-Aware 3D Non-Stationary Channel Modeling for TRIS Transceiver Systems," ICC 2026 - IEEE International Conference on Communication.
 . S. Ji, Y. Wang and *L. Lian*, "MuSAC: Toward Communication-Free Sensory Data Acquisition," in IEEE Transactions on Mobile Computing, doi: 10.1109/TMC.2026.3664511. 
 . *L. Lian*, C. Bai, Y. Xu, H. Dong, R. Cheng and S. Zhang, "Learning to Beamform for Cooperative Localization and Communication: A Link Heterogeneous GNN-Based Approach," in IEEE Transactions on Wireless Communications, vol. 25, pp. 6177-6190, 2026.
 . H. Gao, B. Zhou, *L. Lian*, Z. Wei, X. Li and Y. Zhuang, "Self-Interference-Alleviated Beamforming Towards 6G Integrated Sensing and Communication," ICC 2025 - IEEE International Conference on Communications, Montreal, QC, Canada, 2025, pp. 4493-4498.
